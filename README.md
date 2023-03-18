@@ -9,6 +9,7 @@ A list of Top classic algorithm questions on LeetCode.
 | 1   | Two Sum           | Easy       | Array | 🟩 Solved |
 | 118 | Pascal's Triangle | Easy       | Array | 🟩 Solved |
 | 422 | Valid Word Square | Easy       | Array | 🟩 Solved |
+| 136 | Single Number     | Easy       | Array | 🟩 Solved |
 
 ## Authors
 
